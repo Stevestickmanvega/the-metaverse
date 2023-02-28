@@ -29,3 +29,7 @@ Add more complex states and actions for the machine learning model.
 Allow players to select their own tasks and jobs.
 Add more robots and allow players to control multiple robots.
 Add a user interface for the game
+
+
+
+Helped by chat gpt
