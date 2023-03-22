@@ -1,10 +1,5 @@
-# the-metaverse
-Creating the v meets verse with robotic input to use in real be world 
 
-Virtual World Game with Machine Learning
-This is a virtual world game where players can interact with robots, complete tasks and jobs, and earn rewards. The game has a machine learning component where the actions of each player are learned and optimized over time.
-
-Requirements
+**Requirements**
 Python 3.x
 Numpy
 Scikit-learn
@@ -28,8 +23,7 @@ Future Work
 Add more complex states and actions for the machine learning model.
 Allow players to select their own tasks and jobs.
 Add more robots and allow players to control multiple robots.
-Add a user interface for the game
+Adda user interface
 
-
-
+for the game
 Helped by chat gpt
